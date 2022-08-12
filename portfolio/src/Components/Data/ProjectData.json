@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "https://newsmobile.in/wp-content/uploads/2018/12/licious.png",
+        "name": "Licious(clone)",
+        "desc": "An e-commerce web application dealing with the online sale of all types of meats in India. This was a team project where I with my teammates had created. Tech Stack which we used in this project is HTML, CSS, JS.",
+        "github": "https://github.com/AbrarHyder/licious-clone",
+        "link": "https://licious-app.netlify.app",
+        "tech":[
+            "https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://ik.imgkit.net/3vlqs5axxjf/PCWW/uploadedImages/uploads/2014/05/zostel.png?tr=w-600%2Ch-300%2Cfo-auto",
+        "name": "Zostel (clone)",
+        "desc": "An e-commerce website where one can book world class hospitality service in India. This was a team project where I with my teammates had created. Tech Stack which we used in this project is HTML, CSS, JS, NodeJs, Express.",
+        "github": "https://github.com/SanjanaSinghh/Zostel-Clone",
+        "link": "https://zostel-cloned-app.netlify.app",
+        "tech":[
+            "https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://www.mobihealthnews.com/sites/default/files/Screen%20Shot%202021-09-16%20at%2010.54.57%20AM.png",
+        "name": "Pharmeasy (clone)",
+        "desc": "PharmEasy is an Indian company involved in selling online medicines, diagnostics and telehealth.This was a team project where I with my teammates had created. Tech Stack which we used in this project is React.js, CSS, JS, NodeJs, React Redux.",
+        "github": "https://github.com/gauravsft/pharmeasy.in-clone",
+        "link": "https://pharmeasy-clone-react.netlify.app/",
+        "tech":[
+                 "https://miro.medium.com/max/1040/1*q5Tn2FkQ6Q99DrMVxGeHpw.png"
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://media.qrtiger.com/blog/2021/06/website_800.webp",
+        "name": "Swiggy (clone)",
+        "desc": "Swiggy is most populer food delivery comapny.This was a team project where I with my teammates had created. Tech Stack which we used in this project is React.js, CSS, JS, NodeJs, React Redux.",
+        "github": "https://github.com/Lucky-Yadav/swiggy.com_clone.github.io",
+        "link": "",
+        "tech":[
+                 "https://miro.medium.com/max/1040/1*q5Tn2FkQ6Q99DrMVxGeHpw.png"
+        ]
+    }
+    
+    
+]
+
+
