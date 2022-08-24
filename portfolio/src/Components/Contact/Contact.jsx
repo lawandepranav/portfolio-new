@@ -50,7 +50,7 @@ const Contact = () => {
                         variant="contained"
                         color="secondary"
                         startIcon={< LinkedInIcon/>}
-                        onClick={()=>newTab("linkedin.com/in/pranav-lawande-aa57a317b")}
+                        onClick={()=>newTab("https://www.linkedin.com/in/pranav-lawande-aa57a317b/")}
                     >
                         LinkedIn
                     </Button>
