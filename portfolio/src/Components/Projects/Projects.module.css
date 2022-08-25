@@ -1,6 +1,6 @@
 .main{
     height: auto;
-    font-family: 'Roboto Slab', serif;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
     border: 1px solid white;
 }
 
@@ -63,10 +63,13 @@
     margin: auto;
     margin-top: 1%;
     text-align: center;
+    
 }
 
-.projectCardName>span{
+.projectCardName>h2{
+    padding:"5px";
     font-weight: bold;
+    
 }
 
 .projectCardStack{
@@ -84,6 +87,7 @@
     margin: auto;
     margin-top: 1%;
     text-align: center;
+    color: #686b78;
 }
 
 .projectCardDesc>p{
@@ -92,9 +96,9 @@
 
 .projectCardBtn{
     width: 50%;
-    height: 30px;
+    height: 40px;
     margin: auto;
-    margin-top: 5%;
+    margin-top: 6%;
     display: flex;
     /* border: 1px solid; */
     justify-content: space-between;
@@ -102,6 +106,8 @@
 
 .projectCardBtn>button{
     /* margin-right: 2%; */
+    font-size:'18px';
+    font-weight: 600;
     cursor: pointer;
 }
 

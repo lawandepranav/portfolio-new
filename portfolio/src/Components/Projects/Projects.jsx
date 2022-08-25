@@ -27,14 +27,10 @@ const Projects = () => {
                                 <img src={el.img} className={styles.img} alt="Project" />
                             </Box>
                             <Box className={styles.projectCardName}>
-                                <span>{el.name}</span>
+                                <h2>{el.name}</h2>
                             </Box>
                             <Box className={styles.projectCardDesc}>
-                                <p>{el.desc}</p>
-                            </Box>
-                            <Box className={styles.projectCardStack}>
-                                <img src={el.tech[0]} className={styles.logoImg} alt="stack" />
-                                
+                                <h4>{el.desc}</h4>
                             </Box>
                             <Box className={styles.projectCardBtn}>
                             <Button
